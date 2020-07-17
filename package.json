@@ -1,0 +1,23 @@
+{
+	"name": "god-vision-player",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"build": "omg build",
+		"server": "omg server"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"axios": "^0.19.2",
+		"react": "^16.13.1",
+		"react-dom": "^16.13.1",
+		"rrweb": "^0.8.2",
+		"rrweb-player": "^0.4.6"
+	},
+	"devDependencies": {
+		"@babel/runtime-corejs3": "^7.9.2",
+		"react-hot-loader": "^4.12.20"
+	}
+}
